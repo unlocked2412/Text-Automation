@@ -1,2 +1,2 @@
 # Text-Automation
-A collection of script for Taskpaper and other text-based apps.
+A collection of scripts for Taskpaper and other text-based apps.
