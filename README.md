@@ -1,7 +1,7 @@
 # Text-Automation
 A collection of scripts for Taskpaper and other text-based apps.
 
-# Usage
+## Usage
 
 The scripts could be executed from Script Editor or another apps like Code Runner, Keyboard Maestro, etc.
 
